@@ -1,0 +1,16 @@
+.nav-logo{
+    margin-right: 60%;
+    height:50%;
+}
+@media (max-width: 350px) {
+    .nav-logo{
+        margin-right: 10%;
+       
+    }
+}
+@media (max-width: 450px) {
+    .nav-logo{
+        margin-right: 0%;
+       
+    }
+}
